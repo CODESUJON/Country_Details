@@ -96,6 +96,7 @@ header {
 
 .navbar-grid {
   display: grid;
+  
   grid-template-columns: 0.5fr 1fr;
   align-items: center;
   height: 10rem;
